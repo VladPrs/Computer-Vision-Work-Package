@@ -2,7 +2,7 @@
 1. Instructions
 
 1.1. Operating system installation on Raspberry Pi
-1) Operation system “Raspbian Stretch with desktop” was downloaded on laptop from https://www.raspberrypi.org/downloads/raspbian/ in ZIP format and unzipped
+1) Operating system “Raspbian Stretch with desktop” was downloaded on laptop from https://www.raspberrypi.org/downloads/raspbian/ in ZIP format and unzipped
 2) MicroSD card was inserted in laptop through adapter
 3) A graphical SD card writing tool was downloaded from https://www.balena.io/etcher/ and installed
 4) Using Etcher, image from ZIP file was copied to MicroSD
