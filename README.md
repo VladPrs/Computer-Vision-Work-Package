@@ -38,3 +38,5 @@ In case of any problems, more details on Cascade Trainer GUI can be found on htt
 4) Code was run in Python by clicking on logo of Raspberry, then Programming, then Python 3 (IDLE)
 5) Target was detected and following commands given by programme, the center of the screen was reached
 Explanation of code can be found in comments given after “#”. Tutorial on recognition can be found here https://www.hackster.io/mjrobot/real-time-face-recognition-an-end-to-end-project-a10826 . Tutorial for threading can be found here https://www.pyimagesearch.com/2015/12/28/increasing-raspberry-pi-fps-with-python-and-opencv/ .
+
+Hardware: Akaso Brave 4 camera, Raspberry Pi 3 Model B, Scutes Deluxe USB Power Bank, Raspberry Pi 7” Touchscreen Display, USB cable
